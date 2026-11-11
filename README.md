@@ -24,3 +24,5 @@ I rebuild each case from a blank notebook after finishing it.
 
 | 1 | Restaurant tips | Hospitality | read\_csv, describe, groupby, sort, filter, chart |
 
+| 2 | Retail sales (Superstore) | Retail | text-to-date conversion, groupby by year/month/category, pct\_change, nlargest |
+
